@@ -12,3 +12,7 @@ untuk membuka internal database ikuti cara ini:
 
 # Catatan
 pastikan anda sudah kenal dengan bash shell
+
+# Penambahan fitur v2
+menambah fiture pencarian menggunakan grep shell
+dan merubah navigasi fileman alert di tombol patch
